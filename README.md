@@ -9,24 +9,11 @@ This is the demo code for ''Adapting Generic RGB-D Salient Object Detection for 
 * torchvision
 
 ### Data Preprocessing
-Download the training (NJUD and NLPR) and testing datasets.
+Download the training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
 ### Test 
-```python3 test.py```
+```python test.py```
 
-## Citation
-Please cite the following article when referring to this method.
-```
-@ARTICLE{9894275,
-  author={Song, Mengke and Song, Wenfeng and Yang, Guowei and Chen, Chenglizhao},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Improving RGB-D Salient Object Detection via Modality-Aware Decoder}, 
-  year={2022},
-  volume={31},
-  number={},
-  pages={6124-6138},
-  doi={10.1109/TIP.2022.3205747}}
-```
 
 ## Acknowledgement 
 Thanks to [BBSNet](https://github.com/zyjwuyan/BBS-Net) and [GloRe](https://github.com/facebookresearch/GloRe).
