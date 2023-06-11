@@ -12,6 +12,12 @@ This is the demo code for ''Adapting Generic RGB-D Salient Object Detection for 
 Download the training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
 ### Test 
+Download pretrained model from here. Code: qcra
+
+* Modify your path of testing dataset in test.py
+* Run test.py to inference saliency maps
+* Saliency maps generated from the model can be downnloaded from here. Code: hp32
+*
 ```python test.py```
 
 
