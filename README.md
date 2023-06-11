@@ -11,7 +11,7 @@ This is the demo code for ''Adapting Generic RGB-D Salient Object Detection for 
 ### Data Preprocessing
 Download the RGB-D training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
-Download the stereo training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
+Download the stereo training datasets and testing datasets from [datasets](https://pan.baidu.com/s/1ukuVfK51NuxZU_TsqLVS4A?pwd=8nrw). Code: 8nrw
 
 Download our collected Video8K from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
