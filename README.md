@@ -10,10 +10,11 @@ This is the demo code for ''Adapting Generic RGB-D Salient Object Detection for 
 
 ### Data Preprocessing
 Download the RGB-D training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
+
 Download the stereo training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
 ### Step Warming up
-Generate opticla flow maps (refer to ./GenOpticalFlow/)
+Generate optical flow maps (refer to ./GenOpticalFlow/)
 
 ### Step 1
 Generate saliency informative depth (refer to ./GenDepth/)
