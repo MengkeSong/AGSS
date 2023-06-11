@@ -11,14 +11,21 @@ This is the demo code for ''Adapting Generic RGB-D Salient Object Detection for 
 ### Data Preprocessing
 Download the training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
-### Test 
-Download pretrained model from here. Code: qcra
+### Step Warming up
+Generate opticla flow maps (refer to ./GenOpticalFlow/)
+
+### Step 1
+Generate saliency informative depth (refer to ./GenDepth/)
+
+### Step 2
+Generate high-quality pseudo-GT (refer to ./GenPseudoGT/)
+
+### Step 3 
+Target Domain Adaption (refer to ./Target Models/)
 
 * Modify your path of testing dataset in test.py
 * Run test.py to inference saliency maps
-* Saliency maps generated from the model can be downnloaded from here. Code: hp32
-*
-```python test.py```
+* Saliency maps generated from the three target models can be downnloaded from here. Code: hp32
 
 
 ## Acknowledgement 
