@@ -9,11 +9,11 @@ This is the demo code for ''Adapting Generic RGB-D Salient Object Detection for 
 * torchvision
 
 ### Data Preprocessing
-Download the RGB-D training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
+Download the RGB-D training datasets and testing datasets from [dataset1]() and [dataset2]().
 
-Download the stereo training datasets and testing datasets from [datasets](https://pan.baidu.com/s/1ukuVfK51NuxZU_TsqLVS4A?pwd=8nrw). Code: 8nrw
+Download the stereo training datasets and testing datasets from [datasets](https://pan.baidu.com/s/1ukuVfK51NuxZU_TsqLVS4A?pwd=8nrw) Code: 8nrw.
 
-Download our collected Video8K from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
+Download our collected Video8K from [dataset1]() and [dataset2]().
 
 ### Step Warming up
 Generate optical flow maps (refer to ./GenOpticalFlow/)
@@ -29,7 +29,7 @@ Target Domain Adaption (refer to ./Target Models/)
 
 * Modify your path of testing dataset in test.py
 * Run test.py to inference saliency maps
-* Saliency maps generated from the three target models can be downnloaded from [here](https://pan.baidu.com/s/1lqUZBuPEfZLmOJqIewu1jg?pwd=awc4). Code: awc4
+* Saliency maps generated from the three target models can be downnloaded from [here](https://pan.baidu.com/s/1lqUZBuPEfZLmOJqIewu1jg?pwd=awc4) Code: awc4.
 
 
 ## Acknowledgement 
