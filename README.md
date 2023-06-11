@@ -13,6 +13,8 @@ Download the RGB-D training datasets and testing datasets from [datasets](https:
 
 Download the stereo training datasets and testing datasets from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
 
+Download our collected Video8K from [datasets](https://github.com/jiwei0921/RGBD-SOD-datasets).
+
 ### Step Warming up
 Generate optical flow maps (refer to ./GenOpticalFlow/)
 
