@@ -16,4 +16,4 @@ Download the training datasets and testing datasets from [datasets](https://gith
 
 
 ## Acknowledgement 
-Thanks to [BBSNet](https://github.com/zyjwuyan/BBS-Net) and [GloRe](https://github.com/facebookresearch/GloRe).
+Thanks to [SPNet](https://github.com/taozh2017/SPNet), [SSL](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) and [C2DFNet](https://github.com/Zakeiswo/C2DFNet/tree/main).
