@@ -29,7 +29,7 @@ Target Domain Adaption (refer to ./Target Models/)
 
 * Modify your path of testing dataset in test.py
 * Run test.py to inference saliency maps
-* Saliency maps generated from the three target models can be downnloaded from [here](https://github.com/jiwei0921/RGBD-SOD-datasets). Code: hp32
+* Saliency maps generated from the three target models can be downnloaded from [here](https://pan.baidu.com/s/1lqUZBuPEfZLmOJqIewu1jg?pwd=awc4). Code: awc4
 
 
 ## Acknowledgement 
